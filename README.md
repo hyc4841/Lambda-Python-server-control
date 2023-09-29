@@ -1,5 +1,5 @@
 # Lambda-Python-server-control
-This Project is about server control programing with lambda and python code.
+This Project is about server control programing with lambda and python code. \n
 environment is aws RDS cloud database service.
 python code is simple code, RDS-stop and RDS-start.
 First of all, create RDS database and RDS policy.
